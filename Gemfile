@@ -1,9 +1,16 @@
+# Ruby 3.2+ compatibility for Liquid 4.0.3 (local preview only)
+class Object
+  def tainted?; false; end
+  def taint; self; end
+  def untaint; self; end
+end
+
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+#gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -13,5 +20,10 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-include-cache"
-  gem "jekyll-algolia"
+  gem "csv"
+  gem "base64"
+  gem "bigdecimal"
+  gem "logger"
+  gem "webrick"
+  gem "faraday-retry"
 end

@@ -1,0 +1,7 @@
+---
+---
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Your overrides below */
+.page__title { font-weight: 700; }

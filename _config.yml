@@ -95,11 +95,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-# _projects
+
 collections:
-      projects:
-      output: true
-      permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -119,7 +120,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  #projects
+  # _projects
   - scope:
       path: ""
       type: projects

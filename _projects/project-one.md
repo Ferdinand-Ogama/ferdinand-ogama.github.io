@@ -18,6 +18,9 @@ What you built, in 3-5 sentences.
 1. First step goes here
 2. Second step goes here 
 
+## Template
+![Conditional Access architecture](/assets/diagrams/entra-ca-architecture.drawio.svg)
+
 ## Technologies
 - Microsoft Entra ID
 - PowerShell (Microsoft Graph)

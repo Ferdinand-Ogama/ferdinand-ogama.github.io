@@ -14,6 +14,14 @@ What you built, in 3-5 sentences.
 ## Architecture
 ![Architecture diagram](/assets/diagrams/entra-ca-architecture.svg)
 
+## Demo video
+
+{% include video id="4ULlJEupV" provider="youtube" %}
+
+*Walkthrough: configuring the Conditional Access baseline.*
+
+[Watch on YouTube](https://www.youtube.com/watch?v=4ULlJEupV){: .btn .btn--primary}
+
 ## Implementation steps
 1. First step goes here
 2. Second step goes here 

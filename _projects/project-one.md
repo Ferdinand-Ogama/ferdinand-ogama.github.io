@@ -16,7 +16,7 @@ What you built, in 3-5 sentences.
 
 ## Demo video
 
-{% include video id="4ULlJEupV-I&t" provider="youtube" %}
+{% include video id="4ULlJEupV" provider="youtube" %}
 
 *Walkthrough: configuring the Conditional Access baseline.*
 

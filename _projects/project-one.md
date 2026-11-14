@@ -16,11 +16,11 @@ What you built, in 3-5 sentences.
 
 ## Demo video
 
-{% include video id="4ULlJEupV" provider="youtube" %}
+{% include video id="4ULlJEupV-I&t" provider="youtube" %}
 
 *Walkthrough: configuring the Conditional Access baseline.*
 
-[Watch on YouTube](https://www.youtube.com/watch?v=4ULlJEupV){: .btn .btn--primary}
+[Watch on YouTube](https://www.youtube.com/watch?v=4ULlJEupV-I&t=29s){: .btn .btn--primary}
 
 ## Implementation steps
 1. First step goes here

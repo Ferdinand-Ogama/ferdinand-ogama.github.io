@@ -16,7 +16,7 @@ What you built, in 3-5 sentences.
 
 ## Demo video
 
-{% include video id="4ULlJEupV" provider="youtube" %}
+{% include yt-embed.html id="4ULlJEupV" title="Conditional Access baseline demo" %}
 
 *Walkthrough: configuring the Conditional Access baseline.*
 

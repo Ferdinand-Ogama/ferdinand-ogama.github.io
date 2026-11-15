@@ -12,19 +12,17 @@ What was the business or lab problem?
 What you built, in 3-5 sentences.
 
 ## Architecture
-![Architecture diagram](/assets/diagrams/entra-ca-architecture.svg)
+![Conditional Access architecture](/assets/diagrams/entra-ca-architecture.drawio.svg)
 
 ## RBAC
 {% include figure image_path="/assets/images/projects/rbac_images.jpg" alt="RBAC" caption="Baseline policies as deployed in the lab tenant." %}
-
-
 
 ## Implementation steps
 1. First step goes here
 2. Second step goes here 
 
-## Template
-![Conditional Access architecture](/assets/diagrams/entra-ca-architecture.drawio.svg)
+## RBAC
+{% include figure image_path="/assets/images/projects/rbac_images.jpg" alt="RBAC" caption="Baseline policies as deployed in the lab tenant." %}
 
 ## Technologies
 - Microsoft Entra ID

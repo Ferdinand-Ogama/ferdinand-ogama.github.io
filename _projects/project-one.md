@@ -15,11 +15,8 @@ What you built, in 3-5 sentences.
 ![Architecture diagram](/assets/diagrams/entra-ca-architecture.svg)
 
 ## RBAC
-
-![Conditional Access policy list in the Entra admin center](/assets/images/projects/rbac_images.jpg)
-
 {% include figure image_path="/assets/images/projects/rbac_images.jpg" alt="RBAC" caption="Baseline policies as deployed in the lab tenant." %}
-![Alt text](/assets/images/projects/rbac_images.jpg){: width="400"}
+
 
 
 ## Implementation steps

@@ -14,13 +14,11 @@ What you built, in 3-5 sentences.
 ## Architecture
 ![Architecture diagram](/assets/diagrams/entra-ca-architecture.svg)
 
-## Demo video
+## RBAC
 
-{% include video id="4ULlJEupV" provider="youtube" %}
+![Conditional Access policy list in the Entra admin center](/assets/images/projects/rbac_images.jpg)
 
-*Walkthrough: configuring the Conditional Access baseline.*
-
-[Watch on YouTube](https://www.youtube.com/watch?v=4ULlJEupV-I&t=29s){: .btn .btn--primary}
+{% include figure image_path="/assets/images/projects/rbac_images.jpg" alt="RBAC" caption="Baseline policies as deployed in the lab tenant." %}
 
 ## Implementation steps
 1. First step goes here
